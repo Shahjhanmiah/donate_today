@@ -1,0 +1,165 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+
+}
+
+.background-img{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 80%;
+
+}
+
+
+.donate{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding:5px;
+    margin: 0 auto;
+    
+    
+}
+.flex-contaniner{
+    display: flex;    
+    margin-right: 20px;
+    justify-content: space-around;
+    width: 75%;
+    margin: 0 auto;
+
+}
+.tk_amount{
+    width: 75px;
+    height: 75px;
+    background: rgb(15, 15, 174);
+    color: black;
+    display :flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+.color{
+    background-color: rgb(121, 244, 7);
+}
+.flex-contaniner > div .color{
+    background:orange;
+
+
+}
+
+
+.Donate{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.color{
+    color: blueviolet;
+}
+h3{
+    text-align:center;
+}
+h1{
+    text-align: center;
+}
+.contaniner{
+    box-shadow: 10px 10px 30px ;
+    width: 300pxpx;
+    height: 300px;
+    padding: 20px;
+    margin: 20px;
+
+    
+
+}
+.parent{
+    display: flex;
+    width:75%;
+    margin: 0 auto;
+    justify-content:space-around;
+}
+#child-color{
+    background-color: rebeccapurple;
+
+}
+#food-color{
+    background-color: bisque;
+
+}
+#family-color{
+    background-color: orange;
+}
+.half-width img{
+    width: 70%;
+
+}
+.half-width{
+    text-align: center;
+    padding: 20px;
+    width: 60%;
+
+}
+#color{
+    background-color: orange;
+    font-weight: bold;
+    color: aqua;
+    
+    
+}
+
+.background-color{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+    
+    
+    
+    
+
+.color-h{
+    color: azure;
+    width: 200px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+
+}
+.contine{
+    background-color: black;
+    color: brown;
+    text-align: center;
+}
+#color-to{
+    color: orange;
+    text-align: center;
+}
+.top-banner{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
